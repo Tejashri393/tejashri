@@ -1,7 +1,7 @@
 
 # Email Sending Service
 
-This project implements a resilient email sending service in JavaScript. The service is designed to handle various failures and ensures reliable email delivery using mock email providers. Key features include retry logic with exponential backoff, provider fallback, idempotency, rate limiting, status tracking, and a circuit breaker pattern.
+This project implements a  email sending service in JavaScript. The service is designed to handle various failures and ensures reliable email delivery using mock email providers. Key features include retry logic with exponential backoff, provider fallback, idempotency, rate limiting, status tracking, and a circuit breaker pattern.
 
 
 Features
